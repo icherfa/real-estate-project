@@ -1,4 +1,4 @@
-# Real Estate Project
+# Real Estate Manager Project
 ### Class Assignment for Programming Methodology II
 
 ## Project overview
